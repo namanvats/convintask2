@@ -9,11 +9,10 @@ Convin Task
 
 ## Get the code
 * Clone the repository
-`git clone https://github.com/spantons/todo_app.git`
 
 ## Install the project dependencies
 
-`pip install -r requirements/development.txt`
+`pip install -r requirements.txt`
 
 ## Run the command to generate the database
 `python manage.py migrate`
